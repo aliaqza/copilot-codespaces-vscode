@@ -1,0 +1,10 @@
+Split the data into train and testing part using an 80:20 splitting ratio. Apply appropriate feature scaling and
+encoding techniques to each column of the data so that they can be fed into a machine learning model for the
+purpose of classification. Moreover, to apply above mentioned pre-processing techniques you need to use
+the concept of column transformer and pipelines.
+2. In the second half of the assignment, you are supposed to apply logistic regression and decision tree classifier
+to the data with and without pre-processing and analyze the obtained classification results.
+You have to submit:
+1. Properly commented and indented python code you have written for the preprocessing of the dataset.
+2. Analysis of the classification results obtained for decision tree and logistic regression model and discuss
+your finding and conclusions you have deduced from the results. 
